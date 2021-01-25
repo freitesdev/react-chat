@@ -1,0 +1,17 @@
+{
+  "name": "react-chat",
+  "version": "1.0.0",
+  "description": "Real time chat with React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "react",
+    "realtime",
+    "firebase"
+  ],
+  "author": "Andres Freites",
+  "license": "GPL-3.0"
+}
