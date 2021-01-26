@@ -3,6 +3,13 @@
 * Add reactions to message with emoji using the npm package emoji-mart
 * Deploy to the web using Firebase Tools
 
+## Personal Taste
+* Room categories like 90's chat rooms
+* Ban users by bad words
+* Limit each room to 100 users at time
+* Private chat option (limit to 10)
+* Block unique users
+
 ## Available Scripts
 
 In the project directory, you can run:
